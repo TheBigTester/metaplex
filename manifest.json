@@ -1,6 +1,6 @@
 {
-  "name": "Metaplex NFT Marketplace",
-  "short_name": "Metaplex NFT Marketplace",
+  "name": "Gem NFT Marketplace",
+  "short_name": "Gem NFT Marketplace",
   "display": "standalone",
   "start_url": "./",
   "theme_color": "#002140",
